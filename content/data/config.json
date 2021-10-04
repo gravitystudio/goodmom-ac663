@@ -2,7 +2,7 @@
     "title": "Planty",
     "path_prefix": "/",
     "favicon": "images/goodmom-vector-transperant-small.png",
-    "logo_dark": "images/logo.svg",
+    "logo_dark": "images/goodmom-logo-web.png",
     "logo_light": "images/goodmom-logo-web.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
