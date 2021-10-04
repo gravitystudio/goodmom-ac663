@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Trang Chủ
 white_header: true
 sections:
   - type: hero_section
