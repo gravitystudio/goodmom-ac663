@@ -85,4 +85,5 @@ seo:
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
+  description: 'CSKH: 028.9999.7788'
 ---
