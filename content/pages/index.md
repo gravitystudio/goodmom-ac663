@@ -89,7 +89,7 @@ seo:
         sữa, giường cũi, đồ chơi và đồ dùng cần thiết cho mẹ và em bé. CSKH:
         028.9999.7788
     - name: 'twitter:image'
-      value: images/header.jpg
+      value: images/fatzbaby-banner3-f4de6a8f.png
       relativeUrl: true
   description: >-
     Shop Mẹ&Bé GoodMom chuyên cung cấp các sản phẩm xe đẩy trẻ em, máy hút sữa,
