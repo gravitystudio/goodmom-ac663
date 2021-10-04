@@ -67,7 +67,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: GoodMom
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
