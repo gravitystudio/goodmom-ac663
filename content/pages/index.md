@@ -73,7 +73,7 @@ seo:
       value: The preview of the Planty theme
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: images/fatzbaby-banner3.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
