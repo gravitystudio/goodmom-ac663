@@ -36,7 +36,6 @@ export default class Body extends React.Component {
                         )
                     })}
                     <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.18/default/snipcart.css" />
-                    <script id="omiWidgetScript" type="text/javascript" src="https://minio.infra.omicrm.com/widget/click2call.js#domain=tapnguyendinh;"></script>
                     {_.get(this.props, 'data.config.favicon', null) && (
                     <link rel="icon" href={withPrefix(_.get(this.props, 'data.config.favicon', null))}/>
                     )}
