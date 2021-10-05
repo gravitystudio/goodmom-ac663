@@ -47,6 +47,7 @@ export default class Body extends React.Component {
                         <Footer {...this.props} page={this.props.page} site={this.props} />
                     </div>
                     <div style={toStyleObj("display: none")} id="template-params" data-api-key={_.get(this.props, 'data.config.snipcart_api_key', null)} data-templates-url={withPrefix('js/snipcart-templates.vue')}/>
+                    <script id="omiWidgetScript" type="text/javascript" src="https://minio.infra.omicrm.com/widget/click2call.js#domain=tapnguyendinh;"></script>
             </React.Fragment>
         );
     }
